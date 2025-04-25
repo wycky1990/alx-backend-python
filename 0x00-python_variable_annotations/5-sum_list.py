@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-##Contains a function that sums a list of floats
+'''Contains a function that sums a list of floats
+'''
+
 
 from typing import List
 
